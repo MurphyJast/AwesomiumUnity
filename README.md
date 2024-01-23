@@ -3,11 +3,11 @@ AwesomiumUnity
 
 AwesomiumUnity is a third-party Awesomium wrapper intended for use with Unity3D.
 
-*AwesomiumUnity allows you to display and use HTML documents in your Unity3D application. HTML5, CSS, and JavaScript are supported, and rendered views can be displayed anywhere a regular Unity Texture2D can be used. Possibilities for your application include:*
+!AwesomiumUnity allows you to display and use HTML documents in your Unity3D application. HTML5, CSS, and JavaScript are supported, and rendered views can be displayed anywhere a regular Unity Texture2D can be used. Possibilities for your application include:#
 
 - Fully interactive live browsing of **the** internet, in-game.
 - Rich, complex **2D or 3D** UI's created using HTML, CSS, and JavaScript.
-- Quick iteration times and result. Just edit your HTML, CSS, or JavaScript and reload!
+- Quick iteration times and result. Just edit your HTML, CSS, or JavaScript and reload 
 - **Fully functional** in the **Unity Editor**. Don't restrict yourself to just a standalone game!
 
 The wrapper consist of a custom native code C++ DLL which simply wraps Awesomium's C++ API (requires Unity Pro to use) and a set of C# scripts that interface with this DLL.
@@ -135,3 +135,4 @@ External Links
 
 * Awesomium website: http://awesomium.com/
 * Unity3D website: http://unity3d.com/
+ 
